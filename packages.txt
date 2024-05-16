@@ -1,0 +1,2 @@
+PyAudio
+portaudio19-dev
