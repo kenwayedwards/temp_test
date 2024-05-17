@@ -2,4 +2,6 @@ SpeechRecognition
 PyAudio
 google-auth
 google-cloud-speech
+audio_recorder_streamlit
+
 
