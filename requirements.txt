@@ -1,4 +1,5 @@
 SpeechRecognition
 PyAudio
 google-auth
+google-cloud-speech
 
