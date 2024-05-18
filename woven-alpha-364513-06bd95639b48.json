@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "woven-alpha-364513",
-  "private_key_id": "06bd95639b48de0796cf03b5b6cc5a1436636ec8",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzr/ug3mri5NaL\n7auhnWTkJr6HD5kPhSE+fm80d6/Aq8gqU5n5TKn4vB1bNNycpUVtBR2TfPqbw2PZ\nu9lQJJR1X8tl7Dl+KRlX0bnbLfBRr3WMbO53EipW+tMj22f4Oa8ws8/FBJ5q2jKB\nrc/jvHZagmFj97GkJMxvcTI+GA0F19nnSM8d9UFEa9pKIe41DJS+w73gotvGnl0j\nXcUkOqbvHjDLAZBWddYCaV84HfPplpFxXlHNnohtRvu0e3D3okkmGK2KxM6BAXUf\nttPjmMRZABGjxFKdqcRUpYLfg9+w5JQ9z5EGOAiw+5jsnM9nypJI1KB2OPUCXhTV\nMXLGHksPAgMBAAECggEAEvlz6F5kShZhI4CS/at5sm/28ZsvjgiAZLGEO7WhzQY2\nymVunnk+f6IZtX5lB3OaW7NNFrx9WEJvQlhIT+K0/JoDh/1EavKbFv9yEVeOB4ow\nLwZ3vgIgj3PIJQKvvXIV8l4ihAsDUYQ+DhyVFdbaZp9a+mv3Cb7LCb+Zzx3KDkI5\n054n9UMw3b8AuIe/icWfrDbyRiekZBUt4JWfSlUQZUOjOdGhdvhHnxbX9Euhu+UP\nV5FlsPH8F2weGOPCyx1Kx6X5FeZnVPh3xqnRT4etNio83BVULfXPHxceTwmC8WAO\nFpKYMKj+lJPvvQB38T4Gq8rYH4NdE0EXLd8sH3KgXQKBgQDvDvSC7r6xow47jS8H\nvxsfwLD3/U+1YhT0JOMTXSKBZOf1FsMx/dcF2xFKTRocQEluPuu6GJsl3HUs06k0\n0ZCck8GAkJahPnOVeNj1WmGXmx/yXW1x4cQNWYfRjIXugGpU3JkjLCF+SZtLcBx0\nps8zQi2P96d4EligCPDeSL0PqwKBgQDAa+hfODcOQTYFl4O4OHUOdTf8pnVUFmO3\nnB5nuOnX4ermeidZbC4KfoQU4DqSAVlMh8c8+P9HEOBmixR/oDr/YSHmMtoRZDlS\nAZ85nWUXQWaaoTO+orTdShWFcksgMPocNuytPvnFVCPUC50xBQKy38FjFVPuSzfE\nZ7I8nKWeLQKBgQDPGd2qMLrzmZcS8FT2GRGeiIjHzqPnN3l/qRUwCVeDUa/CHF4u\nSQKnCAoKnJEqOGdlIw2EwxxlyH+aviOwpnzpqPfSMXDNcBUiQPd0V0CE3tbmWRof\ntr7p8c5AM8UzwfxcWGAyoGDDz3DCAfYk+P44IfTm7F4hH4O34QcLC2j+0QKBgCA2\nMDk4dOb6/asj+RXuxZG9B7lQuFVyRhEnnmNoriTImgUpL8slc/OnyD6iZsuoVCWe\nmTjYygtAhQBFihHvZdD4lq8tlhnROFNFGD2R3qls9lsuXzYrkLF2xHGJd5AVAtmU\nTDyYTUG+Wx0VMKRTHWeKU5pdqKY8i0JixZCl/IelAoGBAJr2wWshFH8EhryDaJ/E\nGyENzJ9HSrF6Q/2V/KPhRNkdMDh7mIF0fMQSLcQyQXfImAh510+eHsls3IsdWDl5\n0y7O1b0DtQUtdag7R1NTR4GcCy+iTjeGBPBglR9BARAGbMXk2Tgun7Tx2Z0mV+tT\ncPjs5vR4OZlWOc/tXRxJJFa7\n-----END PRIVATE KEY-----\n",
-  "client_email": "for-stt@woven-alpha-364513.iam.gserviceaccount.com",
-  "client_id": "100856029764889569103",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/for-stt%40woven-alpha-364513.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
